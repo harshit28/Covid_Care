@@ -1,1 +1,3 @@
 # Covid_Care
+
+The pandemic has changed our lifestyle and until today it is affecting us, and it is necessary to know every information to keep us and our loved ones safe. With the virus mutating and increased cases of asymptomatic cases now COVID can be being detected using the chest x-rays as it affects the respiratory system first. According to LSU radiologists, these chest x-rays can be used for rapid diagnosis where there are limited testing and delayed results. And as we all know prevention is better than cure with a lot of advice from everyone there is a lot of confusion over the right and spam news. There is a need for expert advice, current news, and rapid diagnosis.
